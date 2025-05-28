@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Petal Interiors</title>
+  </head>
+<body>
+  
+   
+
+   
+    <div class="bg-primary text-green p-5 text-center">
+        <h1>My first bootstrap page</h1>
+        <p>Wheather you're dressing up for a special occassion or adding a luxe touch to your everyday outfit,<br>
+             these versatile Jewelry pieces make a chic statement. Hypoallergenic and resistant to fading,<br>
+             they're designed to stay beautiful wear after wear.</p>
+       <br>
+       Features;
+       <p>Material: Stainless steel with gold plating</p>   
+       <p>Hypoallergenic and tarnish-resistant</p>   
+       <p>Lightweight for comfortable wear</p>
+       <p>Available in various styles; hoops, studs, or drops.</p>
+    </div>
+    <br>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-4">
+                <h2>Gold and Silver Stainless Steel Hoop Earrings</h2>
+                <p>Sleek and timeless, these gold stainless steel hoops bring effortless elegance to any outfit.</p>
+                <p>Lightweight, durable, and tarnish-resistant perfect for everyday glam.</p>
+                <br>
+                <h2>What we Curated for YOU.</h2>
+                <br>
+                <p>Minimalist hoops; sleek and simple to add a refined touch to any outfit.</p>
+                <p>Chuncky hoops for that Bold, Confident and statement look</p>
+                <p>Textured hoops; Elevate your look. The subtle details add depth and shine.</p>
+                <p>Dainty hoops; Delicate yet stylish offer a touch of elegance in a lightweight design <br>
+                ideal for layering or solo wear.</p>
+                <br>
+                <p>Minimalist Studs;A timeless essential for any Jewelry collection.</p>
+                <p>Chuncky Studs; Stand out with style.</p>
+                <p>Textured Studs; Subtle flair to a classic Silhoutte.</p>
+                <p>Dainty Studs; Just the right sparkle for a soft, everyday glow.</p>
+                <br>
+                <p>Minimalist Drops; for a mordern, understated look.</p>
+                <p>Chuncky Drops; Striking and artistic, meahnt to turn heads.</p>
+                <p>Textured Drops; for a Unique artisan look.</p>
+                <p>Dainty Drops; Perfect for a romantic or refined touch..</p>
+                
+            </div>
+            <br>
+            <div class="col-sm-4">
+                <h2>Gold and Silver Stainless Steel Stud Earrings</h2>
+                <p>Minimal yet bold, these gold stainless steel studs offer a polished finish with lasting shine.</p>
+                <p>Hypoallergenic and comfortable for daily wear with any look.</p>
+            </div>
+            <br>
+            <div class="col-sm-4">
+                <h2>Gold and Silver Stainless Steel Drop Earrings</h2>
+                <p>Graceful and eye-catching, these gold stainless steel drops add movement and style.</p>
+                <p>Crafted for comfort and shine, they're the perfect touch of mordern elegance.</p>
+            </div>
+            <br>
+
+    <div class="main">
+    <img src="/img/petals logo Medium.jpeg " alt="Logo"> <br>
+    </div>
+    <div class="card">
+    <div class="container">
+        <h2>Home Decor Floral arrangements</h2>
+        <img src="/img/pi6.avif" alt="Description of Image">
+        <p>For Home Decor, we have a range of floral arrangements which bring warmth color, and life to your home.</p>
+        <img src="/img/pi8.jpg" alt="Description of Image">
+        <p>We also have dinner settings or hosting floral arrangements that can be curated based on theme, color as per the client requests.</p>
+        <h2>Dinner Floral arrangement</h2>
+        <img src="/img/piT1.jpg" alt="Description of Image">
+        <p>Designed with elegance, our blooms create a stunning ambiance, making every moment unforgettable.</p>
+        <h2>Garden Set up</h2>
+        <img src="/img/pig6.jpg" alt="Description of Image">
+        <img src="/img/pig1.jpg">
+        <p>We do garden set ups at home, public spaces like cafe and hotels.</p>
+    </div>
+    
+    </div>
+    <br><br>
+
+    
+    <footer>
+    
+        <p>&copy; 2025 Petal Interiors | Designed with Love. | All rights reserved.</p>
+      </footer>
+      </body>
+</html>

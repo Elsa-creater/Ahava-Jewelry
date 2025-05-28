@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    
+    
+    <link rel="stylesheet" href="style.css">
+    <title>Ahava Jewelry</title>
+    <script defer src="script.js"></script>
+  </head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <a href="index.html">Petal Interiors</a>
+    </div>
+   
+
+    <div class="menu-toggle" onclick="toggleMenu()">=</div>
+    </nav>
+
+    <div class="main">
+    <img src="" alt="Logo">
+    </div>
+    
+        <div>
+        <h2> Petal Interiors.</h2> 
+        <h2>Transforming spaces with elegance and creativity.</h2>
+        </div>
+        <div class="form-container">
+        <h2>Contact Us</h2>
+            <form action="submit.php" method="post">
+
+        <h2>Email Us</h2>
+        <a href="mailto:elizabethluutu@gmail.com">Petal Interiors</a>
+        <br><br>
+        <h2>Call now</h2>
+        <a href="tel:+256 701646670">+256 701646670</a>
+        <br><br>
+        <h2>Our Show room is located at; Plot 50 Pilkington road</h2>
+        <a href="https://maps.app.goo.gl/pqrAXEF2fsA6c2w36">location</a>
+        <h2>To Join the Petal family Sign up below</h2>
+        <button class="btn-outline">Sign Up here</button> 
+        <br><br>
+        <label for="username">Full Name</label>
+        <input type="text" id="username" name="username" placeholder="username" required> 
+        <br><br>
+        <label for="email">Email Adress:</label>
+        <input type="email" id="email" name="email" placeholder="your email" required>
+        <br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" placeholder="password" required>
+        
+        <p>Select your age:</p>
+        <input type="radio" name="age" value="0-25" id="option-1">
+        <label for="option-1">0-25</label>
+        <input type="radio" name="age" value="26-50" id="option-2">
+        <label for="option-2">26-50</label>
+        <input type="radio" name="age" value="51+" id="option-3">
+        <label for="option-3">"51+"</label>
+        <br><br>
+
+        <div class="form-container">
+            <h3>Select Your Security Question</h3>
+
+    
+        <label for="">Security question:</label>
+    
+        <select name="question" id="question">
+            <option value="q1">what is your favourite color?</option>
+            <option value="q2">what is your middle name?</option>
+            <option value="q3">If you could travel now, which country would it be?</option>
+        </select>
+        </div>
+        <br><br>
+    
+        <label for="answer">Security question answer:</label>
+        <input type="text" id="answer" name="answer">
+    
+        <br><br>
+    
+        <label for="bio">Your Bio:</label><br>
+        <br><br>
+
+        
+        <textarea bio="" id="bio" cols="30" rows="10" placeholder="About you..."></textarea>
+
+    <br><br>
+
+        <div>
+            <button class="btn-gradient">Submit here</button>
+        
+    </div>
+      </form>
+    </div>
+      <br><br>
+      <footer>
+        
+        <p>&copy; 2025 Ahava Jewelry | Designed with Love. | All rights reserved.</p>
+      </footer>
+
+</body>
+</html>

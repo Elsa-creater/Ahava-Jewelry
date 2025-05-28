@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ahava Jewelry</title>
+        <meta name="viewport" content="width=device-width", initial-scale="1.0">
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <h2>Welcome to our page</h2>
+
+        <h2>About Us</h2>
+        <p>Ahava Jewelry; the name says it all. "Ahava", the hebrew word for love, is the soul of every piece we curate. <br>
+            more than just adornment, our Jewelry is a celebration of timeless beauty.
+        </p>
+        <br>
+        <p>Our vision is to blend morden/ vintage designs with meaninful story telling. <br> 
+            Ahava Jewelry offers pieces that speak to both the eye and heart.
+        </p>
+        <br>
+        <p>From delicate everyday essentials to bold statement treasures to help you mark life,s meaningful moments; engagements, <br>
+            self celebrations, milestones and gifting. with unique pieces that are as enduring as the pieces they represent.
+        </p>
+
+
+    </body>
+
+</html>

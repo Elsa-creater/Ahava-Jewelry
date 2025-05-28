@@ -1,0 +1,15 @@
+.row {
+    border: 5px dotted orange;
+}
+.col-1 {
+    border: 2px solid palevioletred;
+}
+.col-10{
+    border: 2px solid palevioletred;  
+}
+.container {
+    border: 10px dashed lawngreen;
+}
+.container-fluid {
+    border: 10px solid rgb(15, 7, 234);
+}
